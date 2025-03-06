@@ -3,7 +3,7 @@ rovs <- data.frame(
   model = c("Chasing M2 Pro", "Qysea Fifish Pro V6", "BlueROV2"),
   price_usd = c(3459, 2999, 6500)
 )
-#the dimensions are 3 by 3
+#theres 3 rows and 2 columns
 
 # Fill in the blanks to create a data frame with columns "species" and "mass_kg"
 # The lingcod weighed 4.9 kg and the two halibut weighed 11.2 and 14.1 kg.
